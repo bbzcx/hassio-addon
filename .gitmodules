@@ -1,0 +1,3 @@
+[submodule "Hassio-Addons"]
+	path = Hassio-Addons
+	url = https://github.com/Poeschl/Hassio-Addons.git
